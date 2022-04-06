@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppActivityWithFragments</string>
+    <string name="send_message_button_text">Send message</string>
+    <string name="read_button_text">Read</string>
+    <string name="messages_text">All messages is read</string>
+    <string name="empty_message">No messages</string>
+</resources>
